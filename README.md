@@ -16,7 +16,4 @@
 
 ---
 
-## `About Me`
-Hi, I'm Matthew, a 3rd year Computer Science student at Carleton University seeking a winter and/or summer 2027 internship.\
-#### My LinkedIn: <a href="https://www.linkedin.com/in/matthew-fewer-246094343/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
