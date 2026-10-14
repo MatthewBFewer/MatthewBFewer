@@ -8,7 +8,6 @@
 <br/>
 
 <a href="https://github.com/MatthewBFewer">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+reality;Discovering+something+new+every+day;" alt="Typing animation"/>
 </a>
 
 <br/>
